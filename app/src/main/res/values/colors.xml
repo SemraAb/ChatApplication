@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#FF292F3F</color>
+    <color name="searchBarColor">#40000000</color>
+    <color name="searchTextColor">#99FFFFFF</color>
+    <color name="plusBlue">#FF03A9F1</color>
+    <color name="grey">#FF565E70</color>
+    <color name="green">#FF00AC83</color>
+    <color name="hint">#99FFFFFF</color>
+
+    <color name="sender">#FF272A35</color>
+    <color name="receiver">#FF373E4E</color>
+</resources>
